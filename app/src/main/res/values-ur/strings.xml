@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">کراپ انٹیل 4</string>
+    <string name="nav_crops">فصلوں کا انتظام</string>
+    <string name="nav_soil">مٹی کی حالت</string>
+    <string name="nav_diagnostic">کیڑوں اور بیماریوں کی تشخیص</string>
+    <string name="nav_irrigation">آبپاشی کا شیڈول (ET)</string>
+    <string name="nav_fertilizers">کھاد کا حساب (NPK)</string>
+    <string name="nav_market">منڈی کے ریٹ</string>
+</resources>

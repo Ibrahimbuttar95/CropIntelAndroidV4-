@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CropIntel v4</string>
+    <string name="nav_crops">Crop Management</string>
+    <string name="nav_soil">Soil Condition Reader</string>
+    <string name="nav_diagnostic">Pest &amp; Disease Diagnostic</string>
+    <string name="nav_irrigation">ET Irrigation Scheduler</string>
+    <string name="nav_fertilizers">NPK Calculator</string>
+    <string name="nav_market">Mandi Rates</string>
+</resources>
